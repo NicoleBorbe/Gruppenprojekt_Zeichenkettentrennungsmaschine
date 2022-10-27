@@ -1,1 +1,1 @@
-# Gruppenprojekt_Zeichenkettentrennungsmaschine
+Gruppenprojekt mit Jenni und Tanja
